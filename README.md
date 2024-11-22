@@ -23,5 +23,3 @@ Feel free to explore my repositories and connect with me!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hzryz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
